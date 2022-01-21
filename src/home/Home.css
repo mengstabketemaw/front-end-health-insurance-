@@ -1,0 +1,17 @@
+.homebutton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  .homebutton2 {
+    background-color: #aa5014; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 14px;
+  }
